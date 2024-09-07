@@ -46,6 +46,35 @@
         ]
       },
       {
+        "tag": "about_app",
+        "patterns": [
+          "What is the HDIMS app?",
+          "Tell me about the HDIMS app.",
+          "What does the Health Data Information & Management System do?",
+          "What is the purpose of the HDIMS app?",
+          "How does the HDIMS app work?"
+        ],
+        "responses": [
+          "The Health Data Information & Management System (HDIMS) Mobile Application allows hospitals and departments to enter and update healthcare data dynamically. The data can be accessed by Super Admins to implement health and family welfare schemes, monitor performance, and provide policy inputs. The app ensures smooth data flow from facility to sub-district, district, and state levels, improving efficiency and decision-making in healthcare."
+        ]
+      },
+      
+      
+      {
+        "tag": "welfare_schemes",
+        "patterns": [
+          "What welfare schemes are supported by HDIMS?",
+          "How does HDIMS help with welfare schemes?",
+          "What welfare programs can be managed through HDIMS?",
+          "Explain welfare schemes in HDIMS.",
+          "How does HDIMS assist in implementing welfare schemes?",
+          "Tell me some medical welfare schemes managed by HDIMS."
+        ],
+        "responses": [
+          "HDIMS helps manage various health and family welfare schemes such as the **National Health Mission (NHM)**, **Ayushman Bharat (PM-JAY)**, **Rashtriya Bal Swasthya Karyakram (RBSK)**, and the **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)**. The app allows hospitals and departments to update relevant data in real time, which can be accessed by Super Admins to monitor the performance of these schemes. It also aids in ensuring that healthcare services are effectively delivered, and helps policymakers make data-driven decisions."
+        ]
+      },      
+      {
         "tag": "impact_on_audience",
         "patterns": [
           "How does the system impact different audiences?",
