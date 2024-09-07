@@ -59,7 +59,7 @@ This project is collaboratively developed by:
 1. *Sayak Ghosh*
 2. *Iman Dutta*
 3. *Asmita Sen*
-4. *Suhas Ghoshal*
+4. *Suhas Ghosal*
 5. *Soumadip Maity*
 6. *Ayan Dasgupta* 
 
