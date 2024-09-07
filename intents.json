@@ -1,0 +1,149 @@
+{
+    "intents": [
+      {
+        "tag": "greetings",
+        "patterns": [
+          "Hello",
+          "Hi",
+          "Hey",
+          "Good morning",
+          "Good afternoon",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi! What would you like to know?",
+          "Hey there! How can I help?",
+          "Good day! What can I do for you?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Bye",
+          "Goodbye",
+          "See you later",
+          "Take care"
+        ],
+        "responses": [
+          "Goodbye! Feel free to reach out anytime.",
+          "Take care! Let me know if you need anything else.",
+          "See you later! Have a great day."
+        ]
+      },
+      {
+        "tag": "thank_you",
+        "patterns": [
+          "Thank you",
+          "Thanks",
+          "I appreciate it",
+          "Thanks a lot"
+        ],
+        "responses": [
+          "You're welcome!",
+          "Glad I could help!",
+          "No problem, happy to assist!"
+        ]
+      },
+      {
+        "tag": "impact_on_audience",
+        "patterns": [
+          "How does the system impact different audiences?",
+          "Who benefits from the HDIMS application?",
+          "What is the impact of HDIMS?"
+        ],
+        "responses": [
+          "The Health Data Information & Management System impacts providers and policymakers by improving data entry, real-time updates, and decision-making."
+        ]
+      },
+      {
+        "tag": "providers_impact",
+        "patterns": [
+          "What is the impact on providers?",
+          "How do healthcare providers benefit from HDIMS?",
+          "Explain the impact on healthcare providers."
+        ],
+        "responses": [
+          "Providers benefit from efficient data entry, real-time updates, streamlined reporting, and performance visibility. The app allows data flow from the facility level to sub-district, district, and state levels."
+        ]
+      },
+      {
+        "tag": "policymakers_impact",
+        "patterns": [
+          "What is the impact on policymakers?",
+          "How do policymakers benefit from HDIMS?",
+          "Explain the impact on policymakers."
+        ],
+        "responses": [
+          "Policymakers benefit from health data access, trend identification, data-driven decisions, and enhanced monitoring. The system helps provide key inputs for policy formulation and program interventions."
+        ]
+      },
+      {
+        "tag": "solution_benefits",
+        "patterns": [
+          "What are the solution benefits?",
+          "How does HDIMS benefit healthcare?",
+          "Explain the advantages of HDIMS."
+        ],
+        "responses": [
+          "HDIMS provides social, economic, and environmental benefits, including efficient healthcare, cost savings, and paper reduction."
+        ]
+      },
+      {
+        "tag": "social_benefits",
+        "patterns": [
+          "What are the social benefits of HDIMS?",
+          "How does HDIMS impact society?",
+          "Explain the social benefits."
+        ],
+        "responses": [
+          "The social benefits include efficient healthcare, better outcomes, transparency, and equity in healthcare services, particularly through the implementation of health and family welfare schemes."
+        ]
+      },
+      {
+        "tag": "economic_benefits",
+        "patterns": [
+          "What are the economic benefits of HDIMS?",
+          "How does HDIMS help reduce costs?",
+          "Explain the economic benefits."
+        ],
+        "responses": [
+          "The economic benefits include cost savings, reduced administrative burden, early interventions, and improved scheme efficiency, especially through dynamic data updates at various levels."
+        ]
+      },
+      {
+        "tag": "environmental_benefits",
+        "patterns": [
+          "What are the environmental benefits of HDIMS?",
+          "How does HDIMS impact the environment?",
+          "Explain the environmental benefits."
+        ],
+        "responses": [
+          "The environmental benefits include a reduction in paper usage and transportation, contributing to a greener healthcare system."
+        ]
+      },
+      {
+        "tag": "data_entry_update",
+        "patterns": [
+          "How does the data entry work in HDIMS?",
+          "Can hospitals update data?",
+          "How is data entered in HDIMS?"
+        ],
+        "responses": [
+          "Hospitals and departments can enter and update data in the mobile application dynamically, which can be viewed by the Super Admin for efficient implementation of health and family welfare schemes."
+        ]
+      },
+      {
+        "tag": "data_flow",
+        "patterns": [
+          "How does data flow work in HDIMS?",
+          "How does the data travel across levels?",
+          "Explain the data flow in HDIMS."
+        ],
+        "responses": [
+          "The data flows from the facility level to sub-district, district, and state/union territory levels using the HDIMS interface, ensuring that all levels of healthcare administration have access to up-to-date information."
+        ]
+      }
+    ]
+  }
+  
